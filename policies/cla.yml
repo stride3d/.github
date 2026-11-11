@@ -16,6 +16,7 @@ configuration:
          - dependabot-preview[bot]
          - openapi-sdkautomation[bot]
          - github-actions[bot]
+         - stride-bot2[bot]
          - content-assistant[bot]
          - reunion-maestro[bot]
          - renovate[bot]
